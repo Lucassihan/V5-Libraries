@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "KOBELIB_Git",
+		"slot": 1,
+		"description": "",
+		"platform": "V5",
+		"creationDate": "Thu, 09 Apr 2026 09:30:43 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240802_15_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.8.2026020401",
+		"json": 1
+	}
+}
